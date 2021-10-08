@@ -2,6 +2,10 @@
 
 A ReactJS App to describe your skills, projects/works and your background. You can organize it in form of a app in addition to your elaborate resume. It uses UIDeck template with customization. Feel free to fork it from my github repository. If you have any questions, you can add them as comments in github. 
 
+Screenshots:
+
+![screen.gif](./Sample-Portfolio-Resume.gif)
+
 How to setup app: 
 
 https://user-images.githubusercontent.com/90440150/136486021-8bafb295-bbac-463d-a5f6-a0118b50904a.mp4
